@@ -8,7 +8,8 @@ name = "pypi"
 [packages]
 
 requests = "*"
-Django = "*"
+django = "*"
+django-encrypted-model-fields = "*"
 
 
 [dev-packages]
